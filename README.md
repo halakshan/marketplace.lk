@@ -2,7 +2,7 @@
 
 > Sri Lanka's free classifieds platform — Buy and sell vehicles, property, electronics & more.
 
-A full-stack classifieds web application inspired by ikman.lk, built with **Next.js 14**, **Node.js**, and **Firebase**.
+A full-stack classifieds web application built with **Next.js 14**, **Node.js**, and **Firebase**.
 
 ---
 
